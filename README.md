@@ -4,6 +4,8 @@ This repository is used internally by [ACCESS-NRI][access-nri] to plan team meet
 
 [Issues][issue] are used to document meetings, including agendas and meeting notes. This repository does not host any code. 
 
+See the [notes on meeting design](meeting_design.md) for more background information on the meeting design and platform choice.
+
 ## Fornightly Team Meetings
 
 Meetings run from 1.30-2.30pm every second week, alternating between Release Management and Model Development
