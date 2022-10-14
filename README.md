@@ -18,7 +18,7 @@ The issue should be created before the meeting. Ideally with enough work time fo
 
 Notes can be added during or immediately after the meeting. Notes should include references to issues that are spawned as action items from the meeting.
 
-At this point team another team member who attended the meeting should be asked to review to double check notes faithfully capture what happened in the meeting, and action items are correctly included, and assigned where appropriate.
+At this point another team member who attended the meeting should be asked to review to double check notes faithfully capture what happened in the meeting, and action items are correctly included, and assigned where appropriate.
 
 
 
