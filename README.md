@@ -12,7 +12,7 @@ Meetings run from 1.30-2.30pm every second week, alternating between Release Man
 
 Create an [issue] for the next meeting. For the subject follow the naming convention for the previous meeting.
 
-Each agenda item has a title, the team members who proposed it, and will speak to it, and a description of the agenda item with some background information. Remember, if it is important enough to bring to a meeting, it is important enough to spend some time documenting why. This also adds value to the meeting: attendees can come prepared, and important information is captured. It also allows other members of the team to know if this is a meeting they need to come to.
+Each agenda item has a title, the team members who proposed it, and will speak to it, and a description of the agenda item with some background information. Remember, if it is important enough to bring to a meeting, it is important enough to spend some time documenting why. This also adds value to the meeting: attendees can come prepared, and important information is captured. It also allows other members of the team to know if this is a meeting they need to come to. Ideally each agenda item should also contain a brief statement of the desired outcome.
 
 The issue should be created before the meeting. Ideally with enough work time for others to suggest additional agenda items, or changes to existing items. For Monday meetings this is ideally no later than Friday morning. 
 
